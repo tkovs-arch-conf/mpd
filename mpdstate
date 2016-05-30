@@ -1,0 +1,51 @@
+sw_volume: 100
+audio_device_state:1:Alsa
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:curso japonês/01-pt-le_01.mp3
+1:5 a Seco - Ao Vivo no Ibirapuera/08-sei-la-eu.mp3
+2:5 a Seco - Ao Vivo no Ibirapuera/01-gargalhadas.mp3
+3:5 a Seco - Ao Vivo no Ibirapuera/04-pra-voce-dar-o-nome.mp3
+4:5 a Seco - Ao Vivo no Ibirapuera/02-feliz-pra-cachorro.mp3
+5:5 a Seco - Ao Vivo no Ibirapuera/03-em-paz.mp3
+6:5 a Seco - Ao Vivo no Ibirapuera/04-pra-voce-dar-o-nome.mp3
+7:5 a Seco - Ao Vivo no Ibirapuera/09-ou-nao.mp3
+8:5 a Seco - Ao Vivo no Ibirapuera/05-feito-nos.mp3
+9:5 a Seco - Ao Vivo no Ibirapuera/06-tempo-morto.mp3
+10:5 a Seco - Ao Vivo no Ibirapuera/06-tempo-morto.mp3
+11:5 a Seco - Ao Vivo no Ibirapuera/08-sei-la-eu.mp3
+12:5 a Seco - Ao Vivo no Ibirapuera/09-ou-nao.mp3
+13:5 a Seco - Ao Vivo no Ibirapuera/10-abrindo-a-porta.mp3
+14:5 a Seco - Ao Vivo no Ibirapuera/07-faca-desse-drama.mp3
+15:5 a Seco - Ao Vivo no Ibirapuera/10-abrindo-a-porta.mp3
+16:5 a Seco - Ao Vivo no Ibirapuera/11-no-dia-que-voce-chegou.mp3
+17:5 a Seco - Ao Vivo no Ibirapuera/12-tatame.mp3
+18:5 a Seco - Ao Vivo no Ibirapuera/13-vou-mandar-pastar.mp3
+19:5 a Seco - Ao Vivo no Ibirapuera/13-vou-mandar-pastar.mp3
+20:5 a Seco - Ao Vivo no Ibirapuera/12-tatame.mp3
+21:5 a Seco - Ao Vivo no Ibirapuera/13-vou-mandar-pastar.mp3
+22:5 a Seco - Ao Vivo no Ibirapuera/15-mesmo-quando-a-boca-cala.mp3
+23:5 a Seco - Ao Vivo no Ibirapuera/14-deixe-estar.mp3
+24:5 a Seco - Ao Vivo no Ibirapuera/05-feito-nos.mp3
+25:5 a Seco - Ao Vivo no Ibirapuera/15-mesmo-quando-a-boca-cala.mp3
+26:5 a Seco - Ao Vivo no Ibirapuera/04-pra-voce-dar-o-nome.mp3
+27:5 a Seco - Ao Vivo no Ibirapuera/16-no.mp3
+28:5 a Seco - Ao Vivo no Ibirapuera/08-sei-la-eu.mp3
+29:5 a Seco - Ao Vivo no Ibirapuera/06-tempo-morto.mp3
+30:5 a Seco - Ao Vivo no Ibirapuera/07-faca-desse-drama.mp3
+31:5 a Seco - Ao Vivo no Ibirapuera/11-no-dia-que-voce-chegou.mp3
+32:5 a Seco - Ao Vivo no Ibirapuera/17-se-toca.mp3
+33:5 a Seco - Ao Vivo no Ibirapuera/09-ou-nao.mp3
+34:5 a Seco - Ao Vivo no Ibirapuera/07-faca-desse-drama.mp3
+35:5 a Seco - Ao Vivo no Ibirapuera/01-gargalhadas.mp3
+36:5 a Seco - Ao Vivo no Ibirapuera/03-em-paz.mp3
+37:5 a Seco - Ao Vivo no Ibirapuera/02-feliz-pra-cachorro.mp3
+playlist_end
